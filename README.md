@@ -22,8 +22,8 @@ This project simulates an ADaM-style analysis pipeline using publicly available 
 To regenerate the analysis and outputs:
 
 1. Clone the repository
-2. Open `adam_brfss_analysis.sas` in SAS OnDemand or local SAS
-3. Ensure `adam_brfss_subset.csv` is available in your working directory
+2. Open `Preparing BRFSS for ADaM submission.sas` in SAS OnDemand or local SAS
+3. Ensure `brfss_subset.csv` is available in your working directory
 4. Run the full program to generate metadata, mock TLF, and formatted outputs
 
 > Note: This project uses manual control over table formatting and metadata documentation to simulate ADaM-style traceability and reproducibility.
@@ -40,4 +40,4 @@ Trujillo L. *Preparing Public Health Surveillance data for ADaM submission*. Git
 
 ## 📜 License
 
-This project is released under the MIT License. See `LICENSE` for 
+This project workflow is released under the MIT License. See `LICENSE` for 
