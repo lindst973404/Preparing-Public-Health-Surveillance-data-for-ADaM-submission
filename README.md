@@ -36,7 +36,7 @@ Specializing in reproducible analytics, regulatory documentation, and data simul
 
 ### Suggested Citation
 
-Trujillo L. *Simulated ADaM Dataset Using BRFSS 2022 for Regulatory-Style Analysis*. GitHub. September 2025.
+Trujillo L. *Preparing Public Health Surveillance data for ADaM submission*. GitHub. September 2025.
 
 ## 📜 License
 
