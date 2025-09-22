@@ -1,4 +1,4 @@
-# Simulated ADaM Dataset Using BRFSS 2022 for Regulatory-Style Analysis
+# Preparing Public Health Surveillance data for ADaM submission 
 
 This project simulates an ADaM-style analysis pipeline using publicly available BRFSS 2022 data. It focuses on chronic condition burden and physical health outcomes, stratified by age group, and demonstrates reproducible workflow design aligned with regulatory and public health standards.
 
