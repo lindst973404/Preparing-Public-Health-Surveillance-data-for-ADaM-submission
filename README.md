@@ -4,7 +4,8 @@ This project simulates an ADaM-style analysis pipeline using publicly available 
 
 ## What's Included
 
-- **SAS Program**: `Preparing BRFSS for ADaM submission.sas`  
+- **SAS Program**: `Preparing BRFSS for ADaM submission.sas`
+- **R Program**: `Preparing BRFSS for ADaM submission.R`  
 - **Subset Data**: `brfss_subset.csv`  
 - **Metadata Documentation**: `adam_metadata.xlsx`  
 - **Mock TLF Output**: `Table1_TLF.xlsx`  
